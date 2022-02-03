@@ -1,1 +1,22 @@
+h1 {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 52px;
+  color: #3f4c66;
+  text-align: center;
+  padding-bottom: 4px;
+  border-bottom: 3px solid #3f4c66;
+}
 
+h2 {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 28px;
+  color: #3f4c66;
+  text-align: center;
+}
+
+.colored-text {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 22px;
+  color: #3f4c66;
+  text-align: center;
+}
